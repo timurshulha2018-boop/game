@@ -1,6 +1,6 @@
 # 3D Игра — Собери кристаллы 🎮
 
-Простая 3D игра на Three.js. Играй: https://ТВОЙ_НИК.github.io/3d-game/
+Простая 3D игра на Three.js. Играй: https://timurshulha2018-boop.github.io/game/
 
 ## Управление
 - WASD / стрелки — движение
